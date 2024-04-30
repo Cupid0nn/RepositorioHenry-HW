@@ -1,2 +1,1 @@
-# RepositorioHenry-HW
-homework del C2
+Pre homework para poder hacer la tarea del c2
