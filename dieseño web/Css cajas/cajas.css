@@ -1,0 +1,106 @@
+* {
+    color: #14b314; 
+	font-family: "Workbench", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0; 
+    margin: auto;
+    text-align: center;
+    background-color: #152215;
+}
+
+.main {
+    position: absolute;
+    left: 41.8%;
+    top: 7%;
+    padding: 5px;
+    border-radius:1em ;
+    border: 5px inset grey;
+    background-color: white ;
+    box-shadow: 0px 0px 20px 0 yellow
+
+}
+.bolu
+{ 
+    position:absolute;
+    top: 17%;
+    left: 44%;
+    padding: 5px;
+    border-radius:1em ;
+    border: 5px inset grey;
+    background-color: white ;
+    box-shadow: 0px 0px 20px 0 yellow
+
+}
+    
+.lava {
+    position: absolute;
+    top: 27%;
+    left: 41%;
+    padding: 5px;
+    border-radius:1em ;    /* mover un poco mas a la derecha */
+    border: 5px inset grey;
+    background-color: white ;
+    box-shadow: 0px 0px 20px 0 yellow
+}
+.autos  {
+    position: absolute;
+    top: 37%;
+    left: 44%;
+    padding: 5px;       /* mover un poco mas a la derecha */
+    border-radius:1em ;
+    border: 5px inset grey;
+    background-color: white ;
+    box-shadow: 0px 0px 20px 0  yellow
+}
+}
+
+a:hover {
+    color: rgb(3, 255, 3);
+  }
+
+.placa {
+    position: absolute;
+    top:70%;
+    left: 3%;
+    padding: 5px;
+    border-radius:0em ;
+    border: 5px inset grey;
+    background-color: white ;
+    box-shadow: 0px 0px 20px 0 greenyellow
+  }
+
+  .auto {
+    position: absolute;
+    top:70%;
+    left: 28%;
+    padding: 5px;
+    border-radius:0em ;
+    border: 5px inset grey;
+    background-color: white ;
+    box-shadow: 0px 0px 20px 0 greenyellow 
+  }
+  .lavarropas
+  {
+    position: absolute;
+    top:70%;
+    left: 53%;
+    padding: 5px;
+    border-radius:0em ;
+    border: 5px inset grey;
+    background-color: white ;
+    box-shadow: 0px 0px 20px 0 greenyellow 
+  }
+  .Celulares {
+    position: absolute;
+    top:70%;
+    left: 78%;
+    padding: 5px;
+    border-radius:0em ;
+    border: 5px inset grey;
+    background-color: white ;
+    box-shadow: 0px 0px 20px 0 greenyellow 
+      }

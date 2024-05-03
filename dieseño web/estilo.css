@@ -1,0 +1,35 @@
+ * {                /* de esta manera elejimos toda la pagina pero sin jerarquia solo por casacada */
+    
+    color:  #0e6b0e
+}
+
+input	{          /* de esta manera elejimos por TIPO de codigo */
+	
+	color: #0e6b0e
+}
+
+.link{             /* de esta manera elejimos  por CLASE que nostros mismos le brindamos */
+	
+	color: #f00	
+}
+
+#id_pedorro {      /* Cumple una funcion similar al de por Clase sin embargo este debe ser unico como 
+ un identificador este se usa para un solo elemento */
+	
+	color: red
+}
+[colorado="obvio"] { /*Con este lo que podes hacer es crear tu propio atributo */
+	color: #0e6b0e	
+}
+
+h2 p {              /*de esta manera modificaremos por ejemplo todos los P que esten dentro de un h2*/
+	color: blue
+
+}
+span {              /*lo que logramos de esta forma es darle un atributo diferente a lo que este dentro del span */
+	color: #0e6b0e
+}
+
+.link:hover {        /*esto es una Pseudo clase*/
+	color: #0e6b0e
+}
